@@ -1,0 +1,48 @@
+a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+
+header{
+    background-color: black;
+    padding: 10px;
+}
+
+.card{
+    background-color: #96c7ff;
+    box-shadow: 0 4px 10px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.slider-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.p-text{
+    column-count: 4;
+    margin: 20px;
+    text-align: justify;
+    column-rule: 2px solid black;
+}
+
+.image{
+    float: left;
+    width: 350px;
+    height: 250px;
+    margin: 20px;
+}
+
+footer{
+    background-color: black;
+    padding: 0px 10px 10px 10px;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+}
